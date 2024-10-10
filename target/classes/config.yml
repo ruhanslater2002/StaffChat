@@ -1,0 +1,8 @@
+# Plugin made by Glaoi
+# Permission: staffchat.use
+messages:
+  staffChatEnabled: "&8 ▶ &7Staff chat &a&lENABLED&7!"
+  staffChatDisabled: "&8 ▶ &7Staff chat &c&lDISABLED&7!"
+  noPermission: "&8 ▶ &cYou don't have permission to use this command."
+  notPlayer: "&8 ▶ &cOnly players can use this command."
+  staffChatFormat: "&7[StaffChat] &c%player% &8▶ &c%message%"

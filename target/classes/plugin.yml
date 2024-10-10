@@ -1,0 +1,9 @@
+name: EternalCraftStaffChat
+version: '1.0-SNAPSHOT'
+main: cc.eternalcraft.eternalCraftStaffChat.EternalCraftStaffChat
+api-version: '1.8.8'
+
+commands:
+  sc:
+    description: "Staff chat"
+    permission: staffchat.use
