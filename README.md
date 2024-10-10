@@ -1,0 +1,2 @@
+# StaffChat
+Minecraft StaffChat Plugin
